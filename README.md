@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vijaya Suhaas Nadukooru</h1>
-<h3 align="center">A passionate frontend develoA curious software engineer passionate about building impactful productsper from India</h3>
+<h3 align="center">A curious software engineer passionate about building impactful products doing M.Tech in National University of Singapore</h3>
 
 - 🔭 I’m currently working on **Currently exploring AI-driven web apps that combine smart automation with clean user experiences.**
 
