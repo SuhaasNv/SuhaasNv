@@ -75,7 +75,6 @@ Full-time internship from **April 2026** onward (3–9 months). Eligible to work
 
 - **HireLens AI** — Explainable AI simulating ATS, recruiter, and interviewer-style signals for resume screening and interview readiness. [Repo](https://github.com/SuhaasNv/hirelens-ai)
 - **JobHunt-AI** — [Repo](https://github.com/SuhaasNv/JobHunt-AI)
-- **exploresg-compose** — Docker Compose setup to run a full local stack. [Repo](https://github.com/SuhaasNv/exploresg-compose)
 - **weather-app** — [Repo](https://github.com/SuhaasNv/weather-app)
 - **ArtVault (NFT platform)** — [Live demo](https://artvault-nft-platform.vercel.app/) · [Repo](https://github.com/SuhaasNv/artvault-nft-platform)
 
