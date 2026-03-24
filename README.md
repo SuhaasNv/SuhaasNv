@@ -60,9 +60,26 @@ Full-time internship from **April 2026** onward (3–9 months). Eligible to work
 
 ---
 
-### More public work
+### More projects & tools
 
-- **ArtVault (NFT platform)** — [artvault-nft-platform.vercel.app](https://artvault-nft-platform.vercel.app/) · [repo](https://github.com/SuhaasNv/artvault-nft-platform)
+**Browser extensions**
+
+- **YouTube Ad Blocker Pro** — Chrome extension (Manifest V3) for YouTube: blocks/skip ads, SponsorBlock-style segment skipping, themes, analytics dashboard, playback shortcuts, optional focus mode. [Repo](https://github.com/SuhaasNv/Youtube-Ad-Blocker)
+- **Todo Extension** — Chrome extension for tasks with add / complete / delete and lightweight UI polish. [Repo](https://github.com/SuhaasNv/Todo-Extension)
+
+**Automation & domain tooling**
+
+- **ThreadWise** — Oil & gas completion workflows: pulls vendor connection specs with Playwright, runs body calculations and deterministic logic, fills engineering release Excel templates (Python, Pydantic). [Repo](https://github.com/SuhaasNv/ThreadWise)
+
+**Other public repos**
+
+- **HireLens AI** — Explainable AI simulating ATS, recruiter, and interviewer-style signals for resume screening and interview readiness. [Repo](https://github.com/SuhaasNv/hirelens-ai)
+- **JobHunt-AI** — [Repo](https://github.com/SuhaasNv/JobHunt-AI)
+- **exploresg-compose** — Docker Compose setup to run a full local stack. [Repo](https://github.com/SuhaasNv/exploresg-compose)
+- **weather-app** — [Repo](https://github.com/SuhaasNv/weather-app)
+- **ArtVault (NFT platform)** — [Live demo](https://artvault-nft-platform.vercel.app/) · [Repo](https://github.com/SuhaasNv/artvault-nft-platform)
+
+[Browse all repositories →](https://github.com/SuhaasNv?tab=repositories)
 
 ---
 
