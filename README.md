@@ -16,8 +16,10 @@ I design and ship end-to-end products that combine **LLM orchestration**, **RAG*
 | **Phone** | +65 8642 4324 |
 | **LinkedIn** | [linkedin.com/in/suhaasnv](https://www.linkedin.com/in/suhaasnv) |
 | **GitHub** | [github.com/SuhaasNv](https://github.com/SuhaasNv) |
-| **Portfolio (case studies & blog)** | [suhaasnv.github.io/portfolio](https://suhaasnv.github.io/portfolio/) |
-| **Portfolio (Vercel)** | [portfolio-suhaas-nvs-projects.vercel.app](https://portfolio-suhaas-nvs-projects.vercel.app) |
+| **Portfolio website** | [suhaas-nv.vercel.app](https://suhaas-nv.vercel.app/) |
+| **Portfolio (case studies & blog, GitHub Pages)** | [suhaasnv.github.io/portfolio](https://suhaasnv.github.io/portfolio/) |
+
+[![Suhaas Nv — portfolio website (suhaas-nv.vercel.app)](images/portfolio.png)](https://suhaas-nv.vercel.app/)
 
 ---
 
