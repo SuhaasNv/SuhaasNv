@@ -1,24 +1,82 @@
-<h1 align="center">Hi 👋, I'm Vijaya Suhaas Nadukooru</h1>
-<h3 align="center">A curious software engineer passionate about building impactful products doing M.Tech in National University of Singapore</h3>
+# Vijaya Suhaas Nadukooru
 
-- 🔭 I’m currently working on **Currently exploring AI-driven web apps that combine smart automation with clean user experiences.**
+**Software engineer (AI-native full-stack)** · Singapore · M.Tech (Software Engineering), NUS (expected Aug 2026)
 
-- 🌱 I’m currently learning **scalable system deNext.js, cloud platforms (AWS/GCP), and MLOps practices.sign and cloud-native development.**
+I design and ship end-to-end products that combine **LLM orchestration**, **RAG**, **multi-agent workflows**, and **production web stacks**—with emphasis on explainability, security, and real operational impact.
 
-- 👯 Open to collaborating on **innovative software engineering projects**
+---
 
-- 💬 Ask me about **frontend engineering, software design patterns, and digital transformation.**
+### Contact & profiles
 
-- 📫 How to reach me **nvijayasuhaas@gmail.com**
+| | |
+|---|---|
+| **Email** | [nvijayasuhaas@gmail.com](mailto:nvijayasuhaas@gmail.com) |
+| **Phone** | +65 8642 4324 |
+| **LinkedIn** | [linkedin.com/in/suhaasnv](https://www.linkedin.com/in/suhaasnv) |
+| **GitHub** | [github.com/SuhaasNv](https://github.com/SuhaasNv) |
+| **Portfolio (case studies & blog)** | [suhaasnv.github.io/portfolio](https://suhaasnv.github.io/portfolio/) |
+| **Portfolio (Vercel)** | [portfolio-suhaas-nvs-projects.vercel.app](https://portfolio-suhaas-nvs-projects.vercel.app) |
 
-- ⚡ Fun fact **I see every bug as a hidden teacher — they’ve taught me more than any textbook ever could 🐛➡️🚀**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/suhaasnv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhaasnv" height="30" width="40" /></a>
-<a href="https://instagram.com/btw_suhaas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="btw_suhaas" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sxns.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sxns.exe" height="30" width="40" /></a>
-</p>
+### Availability
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+Full-time internship from **April 2026** onward (3–9 months). Eligible to work in **Singapore**. Strong interest in AI systems, product development, and AI-native SaaS.
+
+---
+
+### Education
+
+- **National University of Singapore** — M.Tech, Software Engineering (Aug 2025 – Aug 2026, expected)
+- **Vellore Institute of Technology (VIT)** — B.Tech, Information Technology (Aug 2021 – Aug 2025)
+
+---
+
+### Technical skills
+
+- **Languages:** Python, TypeScript, JavaScript (ES6+), SQL, Java (foundational)
+- **Frontend:** React 18/19, Next.js 16, Vite, Tailwind CSS, shadcn/ui, Framer Motion
+- **Backend:** FastAPI, NestJS, Express.js, REST, background tasks, JWT, OAuth 2.0
+- **AI / ML:** Agentic systems, multi-agent pipelines, RAG, prompt engineering, explainable AI, LLM orchestration; CNN / TensorFlow–Keras (computer vision)
+- **LLM providers:** Google Gemini, OpenAI APIs, Groq (LLaMA), Ollama
+- **Data:** PostgreSQL, SQLite, Supabase, Redis, pgvector
+- **Infra & security:** Docker, Railway, Vercel, AWS (foundational), Azure; RLS, rate limiting, secure headers, OWASP-oriented hardening
+
+---
+
+### Featured projects (demos & repos)
+
+| Project | What it is | Live demo | Code |
+|--------|------------|-----------|------|
+| **SpaceFlow** | AI-powered workspace optimization: booking, QR check-in/out, utilization vs planned occupancy, explainable recommendations, NL booking, role-based dashboards | [spaceflow-v1.vercel.app](https://spaceflow-v1.vercel.app/) | [SuhaasNv/spaceflow_v1](https://github.com/SuhaasNv/spaceflow_v1) |
+| **LoanWise AI** | Multi-agent loan origination: risk, policy, recommendations, decision letters, bias detection, document verification, manager tooling | [loanwise-ai-weld.vercel.app](https://loanwise-ai-weld.vercel.app/) · [API docs (Railway)](https://loanwise-ai-backend-production.up.railway.app/docs) | [SuhaasNv/loanwise-ai](https://github.com/SuhaasNv/loanwise-ai) |
+| **Signal (ACIA)** | Autonomous competitive intelligence: scrape → parse → baseline delta → Gemini insights only when change matters; Bright Data, optional web agent & memory layer | [acia-autonomous-competitive-intelli.vercel.app](https://acia-autonomous-competitive-intelli.vercel.app/) | [SuhaasNv/signal-acia](https://github.com/SuhaasNv/signal-acia) |
+| **Signal demo competitor (“Acme AI”)** | Sample SaaS site used to demo pricing monitoring (landing, `/pricing`, admin price edits) | [demowebsite-blush.vercel.app](https://demowebsite-blush.vercel.app/) | [SuhaasNv/demowebsite](https://github.com/SuhaasNv/demowebsite) |
+| **DocuMind** | Document RAG: PDF ingestion, chunking, embeddings, pgvector retrieval, SSE streaming chat, BullMQ jobs, source attribution | [docu-mind-delta.vercel.app](https://docu-mind-delta.vercel.app/) | [SuhaasNv/DocuMind](https://github.com/SuhaasNv/DocuMind) |
+| **VoyageAI** | End-to-end AI travel planning: NL → itineraries, trip chat, Travel DNA, Mapbox, packing lists, PDF ticket parsing, Redis caching & rate limits | — | [github.com/SuhaasNv](https://github.com/SuhaasNv) |
+| **Plant disease recognition (LeafScan AI)** | CNN over 38 classes (~95% accuracy), FastAPI inference, Next.js UI, non-leaf rejection, Gemini plant assistant | [plant-leaf-disease-detection-two.vercel.app](https://plant-leaf-disease-detection-two.vercel.app/) · [Streamlit](https://plant-leaf-disease-detection-suhaas.streamlit.app/) | [SuhaasNv/Plant-leaf-disease-detection](https://github.com/SuhaasNv/Plant-leaf-disease-detection) |
+
+**Deep dives:** SpaceFlow, DocuMind, and Plant Disease have **[written case studies](https://suhaasnv.github.io/portfolio/)** on the portfolio (e.g. [SpaceFlow](https://suhaasnv.github.io/portfolio/work/spaceflow.html), [DocuMind / RAG](https://suhaasnv.github.io/portfolio/work/ai-knowledge-assistant.html), [Plant disease](https://suhaasnv.github.io/portfolio/work/plant-disease-recognition.html)).
+
+---
+
+### More public work
+
+- **ArtVault (NFT platform)** — [artvault-nft-platform.vercel.app](https://artvault-nft-platform.vercel.app/) · [repo](https://github.com/SuhaasNv/artvault-nft-platform)
+
+---
+
+### Certifications
+
+- AWS Certified Cloud Practitioner  
+- Microsoft Azure Administrator (AZ-104)  
+- Generative AI (IBM)  
+- Additional certificates and learning (NUS ISS, Atlassian Jira, etc.) are listed with links on **[the portfolio](https://suhaasnv.github.io/portfolio/)**.
+
+---
+
+### Selected writing
+
+- [RAG without the theater](https://suhaasnv.github.io/portfolio/blog/rag-without-the-theater.html)  
+- [Problem framing before the stack](https://suhaasnv.github.io/portfolio/blog/problem-framing-before-the-stack.html)  
+- [Claude and agentic building](https://suhaasnv.github.io/portfolio/blog/claude-and-agentic-building.html)
