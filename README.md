@@ -96,6 +96,6 @@ Full-time internship from **April 2026** onward (3–9 months). Eligible to work
 
 ### Selected writing
 
-- [RAG without the theater](https://suhaasnv.github.io/portfolio/blog/rag-without-the-theater.html)  
-- [Problem framing before the stack](https://suhaasnv.github.io/portfolio/blog/problem-framing-before-the-stack.html)  
-- [Claude and agentic building](https://suhaasnv.github.io/portfolio/blog/claude-and-agentic-building.html)
+- [RAG without the theater](https://suhaas-nv.vercel.app/writing/rag-without-theater)  
+- [Problem framing before the stack](https://suhaas-nv.vercel.app/writing/why-we-build)  
+- [Claude and agentic building](https://suhaas-nv.vercel.app/writing/claude-agentic)
