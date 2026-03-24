@@ -4,6 +4,8 @@
 
 I design and ship end-to-end products that combine **LLM orchestration**, **RAG**, **multi-agent workflows**, and **production web stacks**—with emphasis on explainability, security, and real operational impact.
 
+*I still whisper “please behave” before hitting Deploy—so far the apps have better uptime than my sleep schedule.*
+
 ---
 
 ### Contact & profiles
